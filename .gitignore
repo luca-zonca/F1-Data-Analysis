@@ -1,3 +1,10 @@
+# Work in progress notebook
+WIP.ipynb
+
+# Data and plots folder
+csv/
+plots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
