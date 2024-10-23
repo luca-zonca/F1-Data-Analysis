@@ -2,9 +2,8 @@
 WIP.ipynb
 charles_leclerc.ipynb
 
-# Data and plots folder
+# Data folder
 csv/
-plots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

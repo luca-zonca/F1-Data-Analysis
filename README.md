@@ -7,7 +7,7 @@ The main dataset for this project is [F1DB](https://github.com/f1db/f1db), which
 For more detailed analyses of races, I will also use [FastF1](https://docs.fastf1.dev/), an impressive library that provides comprehensive race telemetry and detailed session data, making it a fantastic tool for in-depth analysis.
 
 ## Visualization Method
-As a note, my preferred method for creating visualizations is Plotly because of its interactive plots. Unfortunately, Plotly visualizations do not display directly on GitHub, but you can still view them in the provided notebooks or by following the links to the hosted versions.
+As a note, my preferred method for creating visualizations is Plotly because of the interactivity it offers, making the visualizations more dynamic and engaging. Unfortunately, Plotly visualizations do not display directly on GitHub. For that reason, the links provided in the next section don't point to the notebooks in the repository, but rather to their nbviewer renderings. In general, apart from the advantage of showcasing Plotly visualizations, I find it to be a better experience to view notebooks on nbviewer rather than the embedded view on GitHub because of the cleaner and more inviting interface.
 
 ## Project Overview
 The essence of this project is that it will always be a work in progress. I will regularly update this repository with new analyses whenever I find something interesting to add, explore, or discover. Thank you for joining me on this journey!
